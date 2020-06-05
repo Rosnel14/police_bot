@@ -12,6 +12,6 @@ identify any image of police officers in either chicago or nypd and sorts them a
 which assists in the creation of a public database of police data for citizens to view, edit, and document personal cases of police 
 misconduct with specific officers or departments. 
 
-#How to Contribute 
+# How to Contribute 
 if you find any pictures of officers in the NY or Chicago area, or even in your local area, please email me (officialrosnel@gmail.com) concerning
 your submission. And if you'd like to assit in the training/development of the police_bot let me know! 
